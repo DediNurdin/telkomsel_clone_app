@@ -1,0 +1,4 @@
+#Tue May 02 08:35:12 ICT 2023
+base.0=C\:\\Users\\Dedi\\Desktop\\telkomsel_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
